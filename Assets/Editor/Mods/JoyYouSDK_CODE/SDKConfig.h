@@ -1,0 +1,5 @@
+#define SYS_IOS
+#define THIRD_PFM_PP
+#define CODE_PFM_U3D
+#define CODE_PFM_U3D_API_SIMULATE
+
